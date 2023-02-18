@@ -1,9 +1,9 @@
-package com.example.vacccalendarjavafxversion;
+package com.immunizationcalendar.wiev;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class StartViewController {
     @FXML
     private Label welcomeText;
 

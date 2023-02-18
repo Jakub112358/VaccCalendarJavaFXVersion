@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.vacccalendarjavafxversion/com.example.vacccalendarjavafxversion.HelloApplication
+                                com.example.vacccalendarjavafxversion/com.immunizationcalendar.Launcher
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>

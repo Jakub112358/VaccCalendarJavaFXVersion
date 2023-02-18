@@ -3,6 +3,8 @@ module com.example.vacccalendarjavafxversion {
     requires javafx.fxml;
 
 
-    opens com.example.vacccalendarjavafxversion to javafx.fxml;
-    exports com.example.vacccalendarjavafxversion;
+    opens com.immunizationcalendar to javafx.fxml;
+    exports com.immunizationcalendar;
+    exports com.immunizationcalendar.wiev;
+    opens com.immunizationcalendar.wiev to javafx.fxml;
 }
